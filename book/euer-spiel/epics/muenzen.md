@@ -1,0 +1,4 @@
+---
+name: Münzen
+hide: true
+---
