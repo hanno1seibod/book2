@@ -1,4 +1,4 @@
 ---
 name: Gruppe 4
-index: 1
+index: 6
 ---
