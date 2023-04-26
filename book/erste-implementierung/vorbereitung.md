@@ -8,11 +8,11 @@ lang: de
 
 Nun werden wir mit der Implementierung des Spiels beginnen. Dazu laden wir uns zuerst die Bibliothek [**Scratch for Java**](https://scratch4j.openpatch.org) herunter. Diese wird uns die Spieleentwicklung vereinfachen.
 
-::download[Scratch for Java (Windows)]{src="https://github.com/openpatch/scratch-for-java/releases/latest/download/scratch-standalone-windows-amd64.jar"}
+::download[Scratch for Java]{src="https://github.com/openpatch/scratch-for-java/releases/tag/v3.7.0"}
 
 Anschließend laden wir uns die Grafiken für unser Spiel herunter.
 
-::download[Grafiken]{src="https://www.kenney.nl/content/3-assets/110-jumper-pack/jumperpack_kenney.zip"}
+::download[Grafiken]{src="https://www.kenney.nl/assets/jumper-pack#inline-download"}
 
 ## Einrichtung BlueJ
 
