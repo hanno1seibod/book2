@@ -72,6 +72,7 @@ public class BunnyHop extends Stage
 
     public BunnyHop()
     {
+       super(800, 400);
        bugs = new Spieler();
        this.add(bugs);
     }
