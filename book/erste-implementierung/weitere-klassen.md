@@ -25,7 +25,6 @@ classDiagram
     Feind <|-- StachelFeind
 
     class Stage {
-        setSize(width: int, height: int)
         add(sprite: Sprite)
         remove(sprite: Sprite)
         setColor(r: int, g: int, b: int)
