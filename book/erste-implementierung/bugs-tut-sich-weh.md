@@ -27,10 +27,10 @@ Wenn der Spieler verletzt ist, dann
 ### Aufgaben
 
 1. Modifiziere die Klasse `StachelFeind` so, dass ein `StachelFeind` das Spieler-Objekt `bugs` kennt. Füge dazu ein Attribut vom Datentyp `Spieler` der Klasse `StachelFeind` hinzu und verändere den Konstruktor der Klasse `StachelFeind` so, dass das Attribut belegt wird.
-1.1 (Damit ingo nun weiß, dass es bugs auch auf dem Spielfeld gibt, sollst du im Konstruktur von StachelFeind einen Spieler als Parameter übergeben. Der Parameterwert soll dann auf das neue Attribut gespeichert werden.)
-1.2 (Nun musst du in der KLasse BunnyHop noch die Erzeugung von ingo ändern: Dort soll bugs als Parameter übergenen werden.)
-2. Modifiziere die Methode `run()` der Klasse `StachelFeind` so, dass überprüft wird, ob ein StachelFeind den Spieler berührt (`isTouchingSprite`). Wenn dies der Fall ist, soll die `verletzten()`-Methode der Spieler-Klasse aufgerufen werden.
-3. Implementiere die `verletzten`-Methode der Klasse `Spieler`
+2. (Damit ingo nun weiß, dass es bugs auch auf dem Spielfeld gibt, sollst du im Konstruktur von StachelFeind einen Spieler als Parameter übergeben. Der Parameterwert soll dann auf das neue Attribut gespeichert werden.)
+3. (Nun musst du in der KLasse BunnyHop noch die Erzeugung von ingo ändern: Dort soll bugs als Parameter übergenen werden.)
+4. Modifiziere die Methode `run()` der Klasse `StachelFeind` so, dass überprüft wird, ob ein StachelFeind den Spieler berührt (`isTouchingSprite`). Wenn dies der Fall ist, soll die `verletzten()`-Methode der Spieler-Klasse aufgerufen werden.
+5. Implementiere die `verletzten`-Methode der Klasse `Spieler`
 
 ## Verfeinerung der Kollisionsabfrage
 
