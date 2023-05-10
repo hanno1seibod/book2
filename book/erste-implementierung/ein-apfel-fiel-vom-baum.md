@@ -32,4 +32,5 @@ Nutzte `this.isTouching(Plattform.class)`, um zu überprüfen, ob das aktuelle O
 
 ### Lösung
 
-::archive[Projekt Gravitation.zip]{name="bugs-gravitation"}
+Bitte erst bei mir euren Fortschritt zeigen ;)
+[//]: <> (::archive[Projekt Gravitation.zip]{name="bugs-gravitation"})
