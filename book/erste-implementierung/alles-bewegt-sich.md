@@ -140,7 +140,7 @@ Animationen können dann durch den Aufruf der Methode `playAnimation(name)` ausg
 
 ### Aufgabe
 
-1. Fügt in der Klasse Spieler die Zeile import org.openpatch.scratch.extensions.animation.*; hinzu.
+1. Fügt in der Klasse Spieler die Zeile ´import org.openpatch.scratch.extensions.animation.*;´ hinzu.
 2. Modifiziere die Klasse `Spieler` so, dass diese von der Klasse `AnimatedSprite` erbt.
 3. Füge der Klasse `Spieler` im Konstruktor eine Animation `gehen` hinzu. Schaue dir dazu den Ordner `Grafiken` an, um passende Bilder zu finden.
 4. Implementiere die Methode `public void run()` und spiele die Animation ab.
