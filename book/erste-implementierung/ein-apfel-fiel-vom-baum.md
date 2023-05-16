@@ -16,7 +16,7 @@ Um das Struktogramm umsetzten zu können, musst du eine Variante der `isTouching
 Die `isTouchingSprite`-Methode kann auch für alle Objekte einer Klasse verwendet werden. Beispiel:
 
 ```java
-if(this.isTouching(Feind.class)) {
+if(this.isTouchingSprite(Feind.class)) {
     // irgendein Objekt der Klasse Feind oder Unterklassen der Klasse Feind wird berührt.
 }
 ```
@@ -27,7 +27,7 @@ if(this.isTouching(Feind.class)) {
 2. Implementiere das Konzept der Gravitation für die Klasse StachelFeind.
 
 :::collapsible{title="Tipp" id="508943"}
-Nutzte `this.isTouching(Plattform.class)`, um zu überprüfen, ob das aktuelle Objekt mit einer Plattform kollidiert.
+Nutzte `this.isTouchingSprite(Plattform.class)`, um zu überprüfen, ob das aktuelle Objekt mit einer Plattform kollidiert.
 :::
 
 ### Lösung
